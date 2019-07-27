@@ -1,0 +1,1 @@
+# kubectl-autoscaler-plugin
